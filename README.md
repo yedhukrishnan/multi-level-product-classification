@@ -1,5 +1,5 @@
 # multi-level-product-classification
-[work-in-progress]
+[work-in-progress][readme-in-progress!]
 
 An ML model to classify products in to a hierarchy of categories. 
 
